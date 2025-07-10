@@ -17,8 +17,8 @@ def falar(nome, outro_argumento):                                    #4. Funçã
     return nome.upper()
 
 
-resultado = falar("Wilson", 1000)
-print(resultado)
+resultado2 = falar("Wilson", 1000)
+print(resultado2)
 
 print(falar.__name__)
 # 5. Executa o pacote completo
